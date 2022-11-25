@@ -1,5 +1,5 @@
 # ls-after-cd
-Listing the directory contents after changing directory via a Linux Function.
+Listing the directory contents automatically after changing directory via a Linux Function.
 
 ## Requirements
 * Virtual Machine
@@ -43,6 +43,8 @@ Or alternatively, if you would like to make the update manually enter the follow
 ## Verification Steps 
 To verify that the Implementation steps have worked as expected, *cd* to another directory from the terminal -
     
-    cd /etc
+    cd /usr
+    
+<img width="564" alt="image" src="https://user-images.githubusercontent.com/83971386/203978767-b9c11150-55ea-473d-81fb-97d38dbfec53.png">
       
 
